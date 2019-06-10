@@ -11,12 +11,7 @@
 ## http://hg.mozilla.org/releases/mozilla-release/raw-file/default/security/nss/lib/ckfw/builtins/certdata.txt
 ##
 ## It contains the certificates in PEM format and therefore
-## can be directly used with curl / libcurl / php_curl, or with
-## an Apache+mod_ssl webserver for SSL client authentication.
-## Just configure this file as the SSLCACertificateFile.
-##
-## Conversion done with mk-ca-bundle.pl version 1.25.
-## SHA1: ed3c0bbfb7912bcc00cd2033b0cb85c98d10559c
+## can
 ##
 
 GTE CyberTrust Global Root
